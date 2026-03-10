@@ -1,0 +1,18 @@
+#Base de datos
+gastos.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+env/
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
